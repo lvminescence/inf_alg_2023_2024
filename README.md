@@ -9,3 +9,6 @@ Program przeszuka, czy liczba wprowadzona przez użytkownika znajduje się w ust
 
 ## 09.10.2023 - Potęgowanie szybkie
 Użytkownik wprowadza dwie zmienne - podstawę i wykładnik. Na podstawie algorytmu potęgowania szybkiego, polegający na wykonaniu n - 1 iloczynów, rozbijając potęgę na mniejsze czynniki, program zwraca wynik potęgi.
+
+## 23.10.2023 - Rozkladanie na czynniki pierwsze
+Uzytkownik wprowadza liczbe do programu. Program posiada funkcje, za pomoca ktorej zwraca kolejnie liczby pierwsze, które po pomnożeniu zwracają liczbe podaną przez użytkownika. 
