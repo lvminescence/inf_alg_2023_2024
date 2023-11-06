@@ -2,7 +2,7 @@
 using namespace std;
 
 unsigned long long silnia(int a) {
-    if(a == 1) {
+    if(a <= 1) {
         return a;
     } else {
         return a*silnia(a - 1);
