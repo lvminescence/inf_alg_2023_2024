@@ -16,5 +16,5 @@ int main() {
     cin >> liczba;
     wynik = silnia(liczba);
     cout << liczba << "! = " << wynik;
-
+    return 0;
 }
