@@ -12,3 +12,6 @@ Użytkownik wprowadza dwie zmienne - podstawę i wykładnik. Na podstawie algory
 
 ## 23.10.2023 - Rozkladanie na czynniki pierwsze
 Uzytkownik wprowadza liczbe do programu. Program posiada funkcje, za pomoca ktorej zwraca kolejnie liczby pierwsze, które po pomnożeniu zwracają liczbe podaną przez użytkownika. 
+
+## 06.11.2023 - Silnia
+Uzytkownik wprowadza liczbe do programu i za pomoca funkji rekurencyjnej program zwraca obliczana silnie z liczby. Ze wzgledu na limitacje zwiazane z jak wielkie moga byc liczby przechowywane przez zmienne, ogromne wyniki są zwracane jako 0.
