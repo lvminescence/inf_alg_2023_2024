@@ -15,3 +15,6 @@ Uzytkownik wprowadza liczbe do programu. Program posiada funkcje, za pomoca ktor
 
 ## #05 06.11.2023 - Silnia
 Uzytkownik wprowadza liczbe do programu i za pomoca funkji rekurencyjnej program zwraca obliczana silnie z liczby. Ze wzgledu na limitacje zwiazane z jak wielkie moga byc liczby przechowywane przez zmienne, ogromne wyniki są zwracane jako 0.
+
+## #06 13.11.2023 - Decimal to Binary
+Uzytkownik wprowadza liczbe dziesietna do programu, a za pomoga algorytmu program wyciaga reszte z dzielenia liczby, konwertujac ja na postac binarna/dwojkowa. 
