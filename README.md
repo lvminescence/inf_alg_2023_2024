@@ -18,3 +18,7 @@ Uzytkownik wprowadza liczbe do programu i za pomoca funkji rekurencyjnej program
 
 ## #06 13.11.2023 - Decimal to Binary
 Uzytkownik wprowadza liczbe dziesietna do programu, a za pomoga algorytmu program wyciaga reszte z dzielenia liczby, konwertujac ja na postac binarna/dwojkowa. 
+
+## #07 04.12.2023 - n-ty Wyraz Ciągu
+Program ten określa n-ty wyraz c tego ciągu:
+![](https://raw.githubusercontent.com/PiskorowskiJakub/programming-course-cpp/main/2-algorytmika/2-8-algorytmy-rekurencyjne/2-8-01-ciagi/img/ciag-wzor.jpeg)
