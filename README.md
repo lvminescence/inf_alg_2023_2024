@@ -23,3 +23,6 @@ Uzytkownik wprowadza liczbe dziesietna do programu, a za pomoga algorytmu progra
 Program ten określa n-ty wyraz c tego ciągu:
 
 ![](https://raw.githubusercontent.com/PiskorowskiJakub/programming-course-cpp/main/2-algorytmika/2-8-algorytmy-rekurencyjne/2-8-01-ciagi/img/ciag-wzor.jpeg)
+
+## #08 15.03.2024 - Calkowanie numeryczne
+WIP
